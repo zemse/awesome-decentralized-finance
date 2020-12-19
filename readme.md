@@ -74,7 +74,8 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
     - ~~[Basis](https://www.basis.io) ([white paper](https://www.basis.io/basis_whitepaper_en.pdf)) - Algorithmic stablecoin that "can be robustly pegged to arbitrary assets or baskets of goods"~~ - shut down due to inability to release tokens without securities classification in the US
     - [Carbon](https://www.carbon.money/) ([white paper](https://www.carbon.money/static/media/explainer.964136d4.pdf)) - Stablecoin that will be composed of a basket of whitelisted tokens that is "functionally fiat-backed with the potential to whitelist an algorithmic stablecoin"
     - [Terra](https://terra.money) ([source code](https://github.com/terra-project), [white paper](https://s3.ap-northeast-2.amazonaws.com/terra.money.home/static/Terra_White_paper.pdf?fab2019)) - Protocol that ensures price-stability by algorithmically expanding and contracting supply
-
+    - [Basis Cash](https://basis.cash) ([source code](https://github.com/Basis-Cash/basiscash-protocol)) Basis Cash is a lightweight implementation of the Basis Protocol on Ethereum
+    - [Empty Set Døllar](https://www.emptyset.finance) ([source code](https://github.com/emptysetsquad/dollar), [whitepaper](https://github.com/emptysetsquad/dollar/blob/master/døllar.pdf)) Basis Cash is a lightweight implementation of the Basis Protocol on Ethereum
 <a name="lending-protocols" />
 
 ## Lending Protocols
