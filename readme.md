@@ -194,6 +194,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 - [DeFI Pulse](https://defipulse.com/) - Dashboard with info about locked amount in USD
 - [Stablecoin Index](https://stablecoinindex.com/) - Chart of prices biggest stablecoins
 - [Stable Report](https://stable.report/) - Weekly reports about stablecoins and list of most stablecoins
+- [DeBank](https://debank.com) - DeFi wallet, track DeFi assets and debts.
 
 <a name="accounting" />
 
