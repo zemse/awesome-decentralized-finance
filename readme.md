@@ -169,6 +169,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Settle](https://settle.finance) - Web interface that combines chat with different crypto tools (including portfolio tracking and integration with DeFi protocols) and an "app store" for developers
   - [Totle](https://www.totle.com) ([source code](https://github.com/TotlePlatform)) - Swap and transfer tokens while automatically getting the best prices from decentralized exchanges
   - [Zerion](https://zerion.io) ([source code](https://github.com/zeriontech)) - Interface to decentralized finance protocols positioned as "trustless banking"
+  - [Lock](https://lock.finance) ([source code](https://github.com/lockprotocol)) - Safely lock, HODL and distribute Ethereum assets in smart contracts.
 
 <a name="analytics" />
 
