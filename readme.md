@@ -210,6 +210,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Centrifuge](https://www.centrifuge.io) ([source code](https://github.com/centrifuge), [white paper](https://centrifuge.io/centrifuge_os_white_paper.pdf)) - Platform for financial supply chain, including exchange of invoices, purchase orders, etc.
   - [Groundhog](https://groundhog.network) - "End-to-end" platform for decentralized recurring subscription payments
   - [DeFiprime](https://defiprime.com) - Curated list of the best DeFi Products.
+  - [Sablier](https://sablier.finance) - The protocol for real-time finance.
 
 <a name="community" />
 
