@@ -212,6 +212,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
   - [Groundhog](https://groundhog.network) - "End-to-end" platform for decentralized recurring subscription payments
   - [DeFiprime](https://defiprime.com) - Curated list of the best DeFi Products.
   - [Sablier](https://sablier.finance) - The protocol for real-time finance.
+  - [Pool Together](https://www.pooltogether.com/) ([source code](https://github.com/pooltogether) - A no-loss, audited savings game using Dai and Compound
 
 <a name="community" />
 
