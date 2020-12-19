@@ -71,6 +71,8 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 - Collateralized
   - [Celo](https://celo.org) ([white paper](https://storage.googleapis.com/celo_whitepapers/Celo__A_Multi_Asset_Cryptographic_Protocol_for_Decentralized_Social_Payments.pdf)) - Over-collateralized stablecoin targeting the unbanked using its own distributed ledger
+  - Bitcoin
+    - [_Dollar on Chain_ from Money on chain](https://moneyonchain.com) ([source code](https://github.com/money-on-chain/), [white paper](https://drive.google.com/file/d/10HIs1T4pD5MFSGjr-pnPrPD29DpFYKZN/view)) - Stablecoin collateralized with Bitcoin running on the [RSK network](https://github.com/rsksmart) by means of smartcontracts and a three-token system.
   - Ethereum
     - [Dai Stablecoin from Maker](https://makerdao.com/dai) ([source code](https://github.com/makerdao), [white paper](https://makerdao.com/whitepaper/)) - Stablecoin based on smart contracts for creating collateralized debt positions
     - [Synthetix](https://www.synthetix.io/) ([rebranding announcement](https://blog.synthetix.io/havven-is-transforming-into-synthetix/), [source code](https://github.com/Synthetixio/synthetix), [white paper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)) - Platform with decentralized synthetic assets (stablecoins, crypto, commodities) formerly known as Havven
